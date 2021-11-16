@@ -1,0 +1,266 @@
+.green-color {
+  color: #33bc8c;
+}
+.title-description {
+  padding: 2px;
+  margin-top: 50px;
+  font-weight: 400;
+}
+.partner-button {
+  background-color: #33bc8c;
+  padding: 10px;
+  color: #ffffff;
+  border-width: 0px;
+  font-weight: 100;
+  font-family: "Roboto";
+  width: 200px;
+}
+
+.top-section {
+  background-size: cover;
+  margin-bottom: 20px;
+}
+.middle-header {
+  padding-left: 50px;
+  padding-right: 50px;
+  color: #151945;
+}
+.middle-description {
+  color: #8d8e98;
+}
+.Explore-button {
+  background-color: #33bc8c;
+  width: 150px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 500px;
+  margin-top: 20px;
+  border-width: 0px;
+  color: #ffffff;
+  padding: 10px;
+}
+.hello-com {
+  background-color: #f8f8f9;
+}
+.hello-com2 {
+  background-color: #e5e5e5;
+}
+.carousel-container {
+  background-color: #e5e5e5;
+  width: 100%;
+  height: 0%;
+  display: 100%;
+  background-size: 70px;
+  height: 100%;
+  margin-bottom: 200px;
+}
+.green-one {
+  background-color: #33bc8c;
+  height: 40%;
+}
+
+.carousel-header {
+  color: #ffffff;
+  margin: 30px;
+  margin-right: 90px;
+}
+.carousel-inner-part {
+  color: #d3d3d3;
+}
+.bi {
+  margin-top: 50px;
+  margin-right: 10px;
+  color: #d3d3d3;
+}
+.numbers {
+  color: #d3d3d3;
+  margin: 30px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+.bi-arrow-left-circle {
+  margin-left: 200px;
+}
+.carousel-card {
+  background-color: #ffffff;
+  height: 100%;
+  width: 600px;
+  margin-left: 200px;
+  padding: 50px;
+  background-size: cover;
+}
+
+.carousel-title {
+  color: #151945;
+}
+.carousel-content {
+  color: #8d8e98;
+}
+.archeyimage {
+  width: 428px;
+  height: 458px;
+  margin-bottom: 20px;
+  color: #e3342f;
+}
+.Design-Expert {
+  background-color: #151945;
+}
+.number-div {
+  color: #ffffff;
+}
+.num {
+  color: #696c88;
+  font-size: 60px;
+}
+.num2 {
+  color: #414565;
+  font-size: 30px;
+}
+.mid-des {
+  color: #ffffff;
+  font-size: 46px;
+}
+.Design-Expert {
+  padding: 150px;
+}
+.number-div-content-heading {
+  color: #ffffff;
+  padding: 20px;
+  margin-left: 20px;
+}
+.number-div-content-description {
+  color: #ffffff;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-size: 15px;
+  font-family: "Manrope";
+  font-style: normal;
+}
+.svg-icons {
+  height: 30px;
+  width: 30px;
+  margin: 20px;
+  margin-right: 60px;
+}
+.bottom-two-container {
+  padding: 100px;
+  color: #151945;
+}
+.svg-image-description {
+  color: #3f3d56;
+  margin-left: 10px;
+}
+.questions-heading-main {
+  color: #151945;
+  margin-left: 55px;
+}
+.questions-heading-number {
+  border-style: solid;
+  border-width: 0px;
+  background-color: #33bc8c;
+  color: #ffffff;
+  border-radius: 50%;
+  height: 35px;
+  width: 40px;
+}
+.num-1 {
+  padding: 15px;
+  font-size: 20px;
+  margin-top: 20px;
+  font-weight: 500;
+}
+.questions-heading {
+  color: #33bc8c;
+  font-size: 25px;
+  margin-left: 30px;
+}
+.features-container {
+  margin-left: 40px;
+}
+.question-description {
+  color: #8d8e98;
+  margin-left: 40px;
+}
+.list {
+  color: #8d8e98;
+  margin-left: 10px;
+}
+.questions-heading-number2 {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #151945;
+  color: #33bc8c;
+  border-radius: 50%;
+  height: 35px;
+  width: 35px;
+}
+.questions-heading2 {
+  color: #151945;
+  font-size: 25px;
+  margin-left: 30px;
+}
+.v1 {
+  border-style: solid;
+  border-width: 0px 0px 0px 5px;
+  margin-left: 20px;
+}
+.bottom {
+  padding: 50px;
+  background-color: #151945;
+}
+.end-heading {
+  color: #ffffff;
+}
+.end-description {
+  color: #73758f;
+}
+.email-container {
+  background-color: #0e123e;
+  color: #73758f;
+  padding: 10px;
+  margin: 20px;
+}
+.message-container {
+  background-color: #0e123e;
+  color: #73758f;
+  padding: 20px;
+  margin: 20px;
+  height: 100px;
+}
+.send {
+  color: #ffffff;
+  background-color: #33bc8c;
+  width: 90px;
+  height: 40px;
+  border-width: 0px;
+  text-align: center;
+  margin-left: 400px;
+}
+
+.new1 {
+  border-style: solid;
+  border-color: #73758f;
+  border-bottom: 1px;
+}
+.head2 {
+  font-size: 12px;
+  color: #ffffff;
+}
+.desc2 {
+  color: #73758f;
+  font-size: 12px;
+}
+.bi {
+  margin: 10px;
+  margin-top: 30px;
+}
+.copyright {
+  background-color: #0d113e;
+  color: #ffffff;
+}
+.copyright-text {
+  padding: 10px;
+  font-size: 10px;
+}
